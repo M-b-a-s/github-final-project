@@ -68,7 +68,7 @@ We appreciate your contributions and will review the pull request as soon as pos
 
 ## Code of Conduct
 
-We have adopted a Code of Conduct to ensure a respectful and inclusive environment for all contributors and users of this project. Please read the [Code of Conduct](https://github.com/yourusername/simple-interest-calculator/code_of_conduct.md) before participating in this project.
+We have adopted a Code of Conduct to ensure a respectful and inclusive environment for all contributors and users of this project. Please read the [Code of Conduct](https://github.com/M-b-a-s/github-final-project/blob/main/CODE_OF_CONDUCT.md) before participating in this project.
 
 ## License
 
