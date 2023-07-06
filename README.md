@@ -6,6 +6,14 @@ This is a sample code repository for calculating simple interest, for a microfin
 
 As part of Our initiative to transition our code management system from Subversion (SVN) to Git, We have created this repository to host the code for a simple interest calculator. This repository follows best practices and includes supporting documents like the Code of Conduct and Contributing Guidelines. The code is available to the community under the Apache License 2.0, allowing everyone to benefit from and contribute to the project.
 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -64,7 +72,7 @@ We have adopted a Code of Conduct to ensure a respectful and inclusive environme
 
 ## License
 
-This project is licensed under the Apache License 2.0. You can find the full license text in the [LICENSE](https://github.com/yourusername/simple-interest-calculator/LICENSE) file.
+This project is licensed under the Apache License 2.0. You can find the full license text in the [LICENSE]([https://github.com/yourusername/simple-interest-calculator/LICENSE](https://github.com/M-b-a-s/github-final-project/blob/main/LICENSE)) file.
 
 ---
 
